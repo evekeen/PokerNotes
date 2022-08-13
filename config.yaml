@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: https://pokernotes.ivkin.dev
 languageCode: en-us
 title: Live Poker Notes
 theme: hugo-fresh
