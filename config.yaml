@@ -21,7 +21,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image:
     link: /
   font:
     name: "Open Sans"
@@ -72,13 +72,13 @@ params:
     features:
     - title: At your fingertips
       text: Make a note with just a few taps
-      icon: laptop-globe
+      icon: fingertips
     - title: Record while playing
       text: Make a note right at the table without any distraction
-      icon: mobile-feed
+      icon: record
     - title: Learn
       text: Analyze your desicions and fix mistakes
-      icon: doc-sync
+      icon: learn
   # section3:
   #   title: One platform
   #   subtitle: To rule them all
@@ -104,7 +104,7 @@ params:
   # section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+#    logo: fresh-white-alt.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
