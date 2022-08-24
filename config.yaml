@@ -34,7 +34,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "https://forms.gle/Dvp9UjuUHJdizuub7"
     # Hero image (from static/images/___)
     image: illustrations/poker-watch.gif
     # Footer logos (from static/images/logos/clients/___.svg)
